@@ -11,3 +11,5 @@ I will put some references that I think may be useful below if you guys want to 
 MLOps is the short term of Machine Learning Operations. It represents a set of practices that aim to simplify workflow process and automate machine learning/deep learning deployments. 
 
 Ops in MLOps comes from DevOps, a short term of Developments and Operations. To operationalize something means to bring it into production, which includes deploying, monitoring, and maitaining it. MLOps is a set of tools and best practices for bringing ML into production.
+
+![images/mlops1.png]
